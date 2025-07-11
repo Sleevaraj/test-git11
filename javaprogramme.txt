@@ -1,0 +1,2 @@
+public stativ voicd main()
+{hi}welcome to all 
